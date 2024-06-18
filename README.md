@@ -6,7 +6,7 @@ SpaceX is the most successful company of the commercial space age, making space 
 
 <h2>📄 Questions to be answered</h2><br>
 <ul>
-<li></li>How do variables such as payload mass, launch site, number of flights, and orbits affect the success of the first stage landing?</li>
+<li>How do variables such as payload mass, launch site, number of flights, and orbits affect the success of the first stage landing?</li>
 <li>Does the rate of successful landings increase over the years?</li>
 <li>What is the best algorithm that can be used for binary classification in this case?</li>
 </ul>
